@@ -1,0 +1,38 @@
+E:\doan\DH52005810\DH52005810\bin\Debug\DH52005810.exe.config
+E:\doan\DH52005810\DH52005810\bin\Debug\DH52005810.exe
+E:\doan\DH52005810\DH52005810\bin\Debug\DH52005810.pdb
+E:\doan\DH52005810\DH52005810\obj\Debug\DH52005810.csproj.AssemblyReference.cache
+E:\doan\DH52005810\DH52005810\obj\Debug\DH52005810.formlogin.resources
+E:\doan\DH52005810\DH52005810\obj\Debug\DH52005810.Properties.Resources.resources
+E:\doan\DH52005810\DH52005810\obj\Debug\DH52005810.csproj.GenerateResource.cache
+E:\doan\DH52005810\DH52005810\obj\Debug\DH52005810.csproj.CoreCompileInputs.cache
+E:\doan\DH52005810\DH52005810\obj\Debug\DH52005810.exe
+E:\doan\DH52005810\DH52005810\obj\Debug\DH52005810.pdb
+E:\doan\DH52005810\DH52005810\obj\Debug\DH52005810.main.resources
+E:\doan\DH52005810\DH52005810\obj\Debug\DH52005810.Quanlysp.resources
+E:\doan\DH52005810\DH52005810\obj\Debug\DH52005810.Doanhthu.resources
+E:\doan\DH52005810 - Copy\DH52005810\bin\Debug\DH52005810.exe.config
+E:\doan\DH52005810 - Copy\DH52005810\bin\Debug\DH52005810.exe
+E:\doan\DH52005810 - Copy\DH52005810\bin\Debug\DH52005810.pdb
+E:\doan\DH52005810 - Copy\DH52005810\obj\Debug\DH52005810.formlogin.resources
+E:\doan\DH52005810 - Copy\DH52005810\obj\Debug\DH52005810.Properties.Resources.resources
+E:\doan\DH52005810 - Copy\DH52005810\obj\Debug\DH52005810.csproj.GenerateResource.cache
+E:\doan\DH52005810 - Copy\DH52005810\obj\Debug\DH52005810.csproj.CoreCompileInputs.cache
+E:\doan\DH52005810 - Copy\DH52005810\obj\Debug\DH52005810.exe
+E:\doan\DH52005810 - Copy\DH52005810\obj\Debug\DH52005810.pdb
+E:\doan\DH52005810 - Copy\DH52005810\obj\Debug\DH52005810.FrmMain.resources
+E:\doan\DH52005810 - Copy\DH52005810\obj\Debug\DH52005810.register.resources
+E:\doan\DH52005810 - Copy\DH52005810\obj\Debug\DH52005810.csproj.AssemblyReference.cache
+E:\doan\QuanLyBanHang\DH52005810\bin\Debug\DH52005810.exe.config
+E:\doan\QuanLyBanHang\DH52005810\bin\Debug\DH52005810.exe
+E:\doan\QuanLyBanHang\DH52005810\bin\Debug\DH52005810.pdb
+E:\doan\QuanLyBanHang\DH52005810\obj\Debug\DH52005810.FrmMain.resources
+E:\doan\QuanLyBanHang\DH52005810\obj\Debug\DH52005810.formlogin.resources
+E:\doan\QuanLyBanHang\DH52005810\obj\Debug\DH52005810.Properties.Resources.resources
+E:\doan\QuanLyBanHang\DH52005810\obj\Debug\DH52005810.csproj.GenerateResource.cache
+E:\doan\QuanLyBanHang\DH52005810\obj\Debug\DH52005810.csproj.CoreCompileInputs.cache
+E:\doan\QuanLyBanHang\DH52005810\obj\Debug\DH52005810.exe
+E:\doan\QuanLyBanHang\DH52005810\obj\Debug\DH52005810.pdb
+E:\doan\QuanLyBanHang\DH52005810\obj\Debug\DH52005810.csproj.AssemblyReference.cache
+E:\doan\QuanLyBanHang\DH52005810\obj\Debug\DH52005810.Register.resources
+E:\doan\QuanLyBanHang\DH52005810\obj\Debug\DH52005810.csproj.SuggestedBindingRedirects.cache
